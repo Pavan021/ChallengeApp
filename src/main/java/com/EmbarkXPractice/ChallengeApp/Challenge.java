@@ -2,7 +2,7 @@ package com.EmbarkXPractice.ChallengeApp;
 
 public class Challenge {
 
-    private long id;
+    private Long id;
     private String month;
     private String description;
 
